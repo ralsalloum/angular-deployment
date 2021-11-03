@@ -20,7 +20,7 @@ export class AppComponent implements OnInit {
         SwaggerUIBundle.presets.apis,
         SwaggerUIBundle.SwaggerUIStandalonePreset
       ],
-      url: 'http://161.35.29.131/doc.json',
+      url: 'http://159.89.13.229/doc.json',
       docExpansion: 'none',
       operationsSorter: 'alpha'
     });
