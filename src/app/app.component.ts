@@ -20,7 +20,7 @@ export class AppComponent implements OnInit {
         SwaggerUIBundle.presets.apis,
         SwaggerUIBundle.SwaggerUIStandalonePreset
       ],
-      url: 'http://159.89.13.229/doc.json',
+      url: 'https://mandoob.password-please.com/doc.json',
       docExpansion: 'none',
       operationsSorter: 'alpha'
     });
